@@ -1,0 +1,21 @@
+    body {
+      text-align: center;
+      background: url("../img/am_background.png");
+      background-size: cover;
+      background-position: center;
+      color: white;
+      font-family: 'Shadows Into Light', cursive;
+    }
+    p {
+      font-size: 22px; 
+    }
+    input {
+      border: 0;
+      padding: 10px;
+      font-size: 18px;
+    }      
+    input[type="submit"] {
+      font-family: 'Shadows Into Light', cursive;  
+      background:  #FFCD00;
+      color: white;
+    }
